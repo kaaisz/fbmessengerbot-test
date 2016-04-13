@@ -9,7 +9,7 @@ silex を使っています.
 
 * Facebook App と Facebook Page を作成してください.
 * Heroku アカウントを取得してください.
-* 下の Deploy ボタンを押してデプロイします. 環境変数 FACEBOOK_PAGE_VERIFY_TOKEN に適当な文字列を入れておきます(後で使います). FACEBOOK_PAGE_ACCESS_TOKEN は空欄としておきます.
+* 下の Deploy ボタンを押してデプロイします. 環境変数に適当な文字列を入れておきます(後で編集したり使ったりします).
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](http://bit.ly/fbmessengerbot-test-deploy)
 
