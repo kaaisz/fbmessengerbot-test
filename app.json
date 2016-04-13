@@ -2,9 +2,6 @@
   "name": "Facebook Messenger Bot Test",
   "description": "facebook messenger bot tiny starter kit written in PHP.",
   "repository": "https://github.com/CoachUnited/fbmessengerbot-test.git",
-  "addons": [
-    "fixie:tricycle"
-  ],
   "env": {
     "FACEBOOK_PAGE_ACCESS_TOKEN": {
       "description": "Facebook Page Access Token"
